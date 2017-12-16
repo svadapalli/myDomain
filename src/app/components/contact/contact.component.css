@@ -1,0 +1,25 @@
+.social, .fa {
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 35px;
+    color: white;
+}
+
+.email {
+    color: white;
+    text-align: center;
+}
+
+.li:hover{
+    color: #0077B5;
+}
+
+.gh:hover{
+    color: black;
+}
+
+.fb:hover{
+    color: #3b5998;
+}

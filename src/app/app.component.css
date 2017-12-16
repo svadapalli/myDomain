@@ -1,0 +1,77 @@
+.footer { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 89px;
+}
+
+.nv {
+    background: rgb(244, 246, 247);
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    line-height:12px;
+    padding-top:20px;
+    padding-bottom:5px;
+}
+
+.fa {
+    color: rgb(66, 65, 65);
+    /* text-shadow: 1px 1px 1px #ccc; */
+    font-size: 1.5em;
+}
+
+.fa2 {
+    color: rgb(88, 87, 87);
+    /* text-shadow: 1px 1px 1px #ccc; */
+    font-size: 1.2em;
+}
+
+.logo {
+    color: rgb(253, 97, 30);
+    font-size: 2em;
+    padding-top: 12px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    margin-bottom: 0;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 40px solid #06BC9B;
+}
+
+.triangle:hover{
+    cursor: pointer;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.back-to-top {
+    display: inline-block;
+    margin-left: -10px;
+    margin-top: 15px;
+    outline: 0!important;
+}
+
+.navbar-nav > .active > a {
+    border-bottom: 2px solid #F48024;
+    color: #06BC9B;
+    background-color: rgb(244, 246, 247);
+}
+
+.navbar-nav li a:hover {
+    color: #F48024;
+}

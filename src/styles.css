@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body { 
+    background-color: #1abc9c; /* Green */
+    margin: 0 0 89px; /* bottom = footer height */
+    padding-top: 70px;
+}
+
+h1, h2, h3, h4 {
+    font-family: Varela Round;
+}

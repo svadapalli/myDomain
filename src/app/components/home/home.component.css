@@ -1,0 +1,25 @@
+.bg-1 { 
+    color: #ffffff;
+    margin-top: 0
+ }
+
+.bg-2 {
+    background: rgb(244, 246, 247);
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+
+.img {
+    width: 350px;
+    height: 350px
+}
+
+h4 {
+    color: #474e5d
+}
+
+.sub {
+    color: rgb(238, 148, 12);
+}
