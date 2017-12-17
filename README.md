@@ -1,5 +1,7 @@
 # MyDomain
 
+Visit this link to view the webpage: https://svadapalli.github.io/myDomain/#/home
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
